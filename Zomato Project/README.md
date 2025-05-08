@@ -35,3 +35,66 @@ It answers important questions about customer behavior, restaurant ratings, spen
 ---
 
 
+📊 Visualization Analysis
+1. Restaurant Type Distribution
+Restaurant Types
+Insight:
+
+Dining restaurants dominate Zomato listings (≈60% of all restaurants)
+
+Cafes represent ≈25%, while Buffet and other types are less common
+Business Implication:
+Focus marketing efforts on dining establishments which have highest market presence
+
+2. Customer Votes by Restaurant Type
+Votes by Type
+Key Finding:
+
+Dining restaurants receive 3× more votes than cafes
+
+Buffet restaurants have surprisingly low engagement
+Action Item:
+Investigate why buffet restaurants underperform in customer engagement
+
+3. Ratings Distribution
+Ratings Histogram
+Pattern Observed:
+
+68% of ratings fall between 3.5-4.25 (normal distribution)
+
+Few restaurants have extreme low (<2.5) or high (>4.5) ratings
+Data Note:
+Cleaned rating values show no "0" scores, confirming proper data preprocessing
+
+4. Price Distribution for Two People
+Price Analysis
+Customer Behavior:
+
+Strong peak at ₹300 price point (mode value)
+
+80% of orders fall between ₹250-500 range
+Strategic Insight:
+Price sensitivity observed - maintain offerings in ₹300-400 sweet spot
+
+5. Online vs Offline Order Ratings
+Order Ratings
+Notable Difference:
+
+Online orders average 0.3 points higher (3.9 vs 3.6)
+
+Offline orders show wider rating variance
+Hypothesis:
+Digital convenience may influence customer satisfaction positively
+
+6. Order Type Heatmap
+Order Heatmap
+Key Observations:
+
+Restaurant Type	Online Orders	Offline Orders
+Dining	40%	60%
+Cafes	80%	20%
+Recommendation:
+Develop cafe-specific online promotions and dining-focused in-person experiences
+   
+   
+
