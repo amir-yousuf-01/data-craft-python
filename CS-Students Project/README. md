@@ -1,6 +1,8 @@
 Computer Science Students Analysis Project
 Overview
-This Python project analyzes a dataset of computer science students to uncover key academic and career-related trends. Using Pandas for data manipulation, it provides insights into student demographics, academic performance, skill distribution, and career aspirations.
+This Python project analyzes a dataset of computer science students to uncover key academic and
+career-related trends. Using Pandas for data manipulation, it provides insights into student demographics,
+academic performance, skill distribution, and career aspirations.
 
 Key Features
 Data Preparation
