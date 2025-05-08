@@ -1,0 +1,51 @@
+Computer Science Students Analysis Project
+Overview
+This Python project analyzes a dataset of computer science students to uncover key academic and career-related trends. Using Pandas for data manipulation, it provides insights into student demographics, academic performance, skill distribution, and career aspirations.
+
+Key Features
+Data Preparation
+Cleans and restructures raw student data
+
+Handles missing/numeric data conversion
+
+Renames columns for clarity
+
+Resets index after data filtering
+
+Statistical Analysis
+Calculates total student count and unique majors
+
+Computes average age and GPA statistics
+
+Identifies highest/lowest GPAs in the cohort
+
+Counts students interested in Data Science
+
+Tracks students with strong Python skills
+
+Advanced Insights
+Groups students by future career aspirations
+
+Analyzes average GPA by career path
+
+Examines gender distribution across the program
+
+Technical Implementation
+python
+# Key Operations
+df["Age"] = pd.to_numeric(df["Age"], errors="coerce")  # Numeric conversion
+data_science_students = df[df["Interested_Domain"] == "Data Science"].shape[0]  # Domain filtering
+avg_gpa_by_career = df.groupby("Future_Career")["GPA"].mean()  # Career-based GPA analysis
+Potential Applications
+Academic program assessment
+
+Career counseling resource
+
+Curriculum development insights
+
+Student skill gap analysis
+
+
+Tools Used: Python, Pandas
+Data Fields: Student_ID, Name, Gender, Age, GPA, Major, Interested_Domain, Projects, Future_Career, Python/SQL/Java skills
+
