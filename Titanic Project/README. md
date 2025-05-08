@@ -80,7 +80,8 @@ These findings align with historical accounts of the disaster, quantifying the e
 "This bar chart illustrates the stark disparity in survival rates between male (18.9%) and female (74.2%) passengers,
 quantifying the 'women and children first' protocol. The 3.9x higher survival rate for women reflects historical evacuation priorities."
 
-2. Survival Rate by Passenger Class
+2. Survival Rate by Passenger Class:
+![image alt](https://github.com/amir-yousuf-01/data-craft-python/blob/e37c9d8661df4556ca5cb8a32cb04042638cea19/Titanic%20Project/2.png)
 *"A clear class-based hierarchy emerges in this visualization, with 1st-class passengers surviving at 62.9% - nearly triple the rate of 3rd-class (24.2%).
 The graded pattern underscores how socioeconomic status influenced lifeboat access."*
 
