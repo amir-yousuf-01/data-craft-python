@@ -67,3 +67,16 @@ Higher socio-economic status (1st Class) dramatically improved chances
 Age played a role, particularly for children
 
 These findings align with historical accounts of the disaster, quantifying the evacuation priorities and privileges that shaped survival outcomes.
+
+
+
+
+
+1. Survival Rate by Gender
+"This bar chart illustrates the stark disparity in survival rates between male (18.9%) and female (74.2%) passengers, quantifying the 'women and children first' protocol. The 3.9x higher survival rate for women reflects historical evacuation priorities."
+
+2. Survival Rate by Passenger Class
+*"A clear class-based hierarchy emerges in this visualization, with 1st-class passengers surviving at 62.9% - nearly triple the rate of 3rd-class (24.2%). The graded pattern underscores how socioeconomic status influenced lifeboat access."*
+
+3. Passenger Age Distribution
+*"This histogram reveals a right-skewed age distribution, with most passengers aged 20-40. The KDE curve highlights the concentration of young adults onboard, providing demographic context for survival analysis across age groups."*
