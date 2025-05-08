@@ -91,7 +91,7 @@ This report analyzes the Titanic dataset to understand survival patterns based o
 1. Survival Rate by Gender
 Survival by Gender
 Analysis:
-[!image alt] (https://github.com/amir-yousuf-01/data-craft-python/blob/38edb196e581f4f12fac1f8c3deca946714d4b88/Titanic%20Project/1.png)               
+![image alt](https://github.com/amir-yousuf-01/data-craft-python/blob/38edb196e581f4f12fac1f8c3deca946714d4b88/Titanic%20Project/1.png)               
 
 74.2% of women survived vs. only 18.9% of men
 
