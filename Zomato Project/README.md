@@ -92,7 +92,8 @@ Hypothesis:
 Digital convenience may influence customer satisfaction positively
 
 6. Order Type Heatmap
-Order Heatmap
+![image alt](https://github.com/amir-yousuf-01/data-craft-python/blob/28c30b97b236273e7cb20397080a0cd2dda5a0be/Zomato%20Project/6.png)
+
 Key Observations:
 
 Restaurant Type	Online Orders	Offline Orders
