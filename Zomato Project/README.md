@@ -37,7 +37,7 @@ It answers important questions about customer behavior, restaurant ratings, spen
 
 📊 Visualization Analysis
 1. Restaurant Type Distribution
-Restaurant Types
+2. ![image alt](https://github.com/amir-yousuf-01/data-craft-python/blob/ad53e6bdc777174ba934ac4a6af6e4ec9ee0f934/Zomato%20Project/1.png)
 Insight:
 
 Dining restaurants dominate Zomato listings (≈60% of all restaurants)
