@@ -70,7 +70,8 @@ Data Note:
 Cleaned rating values show no "0" scores, confirming proper data preprocessing
 
 4. Price Distribution for Two People
-Price Analysis
+![image alt](https://github.com/amir-yousuf-01/data-craft-python/blob/cc66c4d36e336f5dae2641419fe0759d8b61b981/Zomato%20Project/4.png)
+
 Customer Behavior:
 
 Strong peak at ₹300 price point (mode value)
