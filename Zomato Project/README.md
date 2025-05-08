@@ -34,16 +34,4 @@ It answers important questions about customer behavior, restaurant ratings, spen
 
 ---
 
-## 📂 Project Structure
 
-```plaintext
-Zomato Project/
-├── zomato_analysis.py      # Main Python script (analysis code)
-├── zomato_data.csv         # Input dataset
-├── type_of_restaurants.png # Saved visualization images
-├── ratings_distribution.png
-├── online_vs_offline_ratings.png
-├── couple_spendings.png
-├── votes_by_restaurant_type.png
-├── online_offline_heatmap.png
-└── README.md               # Project overview (this file)
