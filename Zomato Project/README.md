@@ -81,7 +81,8 @@ Strategic Insight:
 Price sensitivity observed - maintain offerings in ₹300-400 sweet spot
 
 5. Online vs Offline Order Ratings
-Order Ratings
+   ![image alt](https://github.com/amir-yousuf-01/data-craft-python/blob/12c3a66ab5f6472b8c2e3563e298c7635c003868/Zomato%20Project/5.png)
+   
 Notable Difference:
 
 Online orders average 0.3 points higher (3.9 vs 3.6)
