@@ -59,7 +59,8 @@ Action Item:
 Investigate why buffet restaurants underperform in customer engagement
 
 3. Ratings Distribution
-Ratings Histogram
+   ![image alt](https://github.com/amir-yousuf-01/data-craft-python/blob/0eb386413fcd513b889d6f42df1df3c6b1cd819d/Zomato%20Project/3.png)
+   
 Pattern Observed:
 
 68% of ratings fall between 3.5-4.25 (normal distribution)
