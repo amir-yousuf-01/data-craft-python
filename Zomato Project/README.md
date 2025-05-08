@@ -37,7 +37,8 @@ It answers important questions about customer behavior, restaurant ratings, spen
 
 📊 Visualization Analysis
 1. Restaurant Type Distribution
-2. ![image alt](https://github.com/amir-yousuf-01/data-craft-python/blob/ad53e6bdc777174ba934ac4a6af6e4ec9ee0f934/Zomato%20Project/1.png)
+ ![image alt](https://github.com/amir-yousuf-01/data-craft-python/blob/ad53e6bdc777174ba934ac4a6af6e4ec9ee0f934/Zomato%20Project/1.png)
+
 Insight:
 
 Dining restaurants dominate Zomato listings (≈60% of all restaurants)
@@ -47,7 +48,8 @@ Business Implication:
 Focus marketing efforts on dining establishments which have highest market presence
 
 2. Customer Votes by Restaurant Type
-Votes by Type
+ ![image alt](https://github.com/amir-yousuf-01/data-craft-python/blob/8807656790a26074929ce41dbb85ac2522c44376/Zomato%20Project/2.png)
+
 Key Finding:
 
 Dining restaurants receive 3× more votes than cafes
